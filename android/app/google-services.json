@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "229914810743",
+    "firebase_url": "https://coffee-cuop.firebaseio.com",
+    "project_id": "coffee-cuop",
+    "storage_bucket": "coffee-cuop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229914810743:android:1a883451c381b985c32972",
+        "android_client_info": {
+          "package_name": "com.trnwrckd.coffeeCup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229914810743-5bu93kuha89g7ppl915bejlg48q1150f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWHSgXnLKFhb-hYsMR9adwQ61KYk0svU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229914810743-5bu93kuha89g7ppl915bejlg48q1150f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
